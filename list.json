@@ -1,3 +1,31 @@
 {
-    
+    {
+        "name" : "Jim Halpert",
+        "guests" : 4,
+        "status" : false
+    },
+
+    {
+        "name" : "Michael Scott",        
+        "guests" : 3,
+        "status" : false
+    },
+
+    {
+        "name" : "Toby Flenderson",        
+        "guests" : 3,
+        "status" : false
+    },
+
+    {
+        "name" : "Dwight Schrute",
+        "guests" : 7,
+        "status" : true
+    },
+
+    {
+        "name" : "Pam Beesly",
+        "guests" : 1,
+        "status" : true
+    }
 }
